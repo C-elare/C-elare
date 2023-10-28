@@ -1,6 +1,24 @@
-# 💫 About Me:
-Salut ! Je suis C-elare, un développeur web passionné, gamer à mes heures, amateur de philosophie et randonneur du dimanche ! 🌍<br><br>🛠 En ce moment dans mon laboratoire de code :<br>Je suis en train de bâtir une application qui transforme le processus d'apprentissage du code en une expérience interactive et enrichissante, le tout propulsé par l'API d'OpenAI et une stack Laravel & React.<br><br>👩‍💻 Pour les recruteurs et clients potentiels :<br>Si vous cherchez quelqu'un qui peut apporter de l'innovation et de l'enthousiasme à votre équipe ou à votre projet, ne cherchez pas plus loin ! <br>J'ai une bonne expertise en Laravel, Expressjs et React et je suis ouvert à des opportunités de collaboration ou de freelance.<br><br>🤝 Pour les mentors :<br>Je suis aussi à la recherche d'un mentor qui pourrait me guider dans le vaste monde du développement web. <br>Mon but est de prendre des décisions éclairées et d'accélérer mon apprentissage.<br><br>🌱 Mes aspirations :<br>Laravel et React sont mes points forts, mais mon radar est aussi réglé sur Vue.js et Nest.js. <br>Attendez-vous à me voir plonger dans ces technologies très bientôt.<br><br>🗨 Parlons-en !<br>Que vous soyez un mentor, un recruteur ou simplement un passionné de tech comme moi, je serais ravi de dialoguer. <br>N'hésitez pas à me contacter !<br><br>⚡ Un peu plus sur moi :<br>Lorsque je ne code pas, vous pouvez me trouver en train de débattre de philosophie, d'explorer des mondes virtuels dans les jeux vidéo, d'avoir une appétence pour les intelligences Artificielles que je commence à bien maîtriser, ou de profiter de la beauté de la nature lors de randonnées.
-
+# 💫 Salut, je suis C-elare 🌍
+Développeur Web en Bachelor chez HETIC, passionné par la tech, le jeu vidéo et la philosophie. Toujours à la recherche de perfection et d'innovation.
+---
+## 🛠 Actuellement :
+- **Projet en cours :** Une app d'apprentissage du code, propulsée par l'API d'OpenAI, Laravel & React.
+- **Tech stack :** JavaScript, PHP, Laravel, React, TypeScript.
+---
+## 👩‍💻 Opportunités :
+- **Recruteurs :** Expertise en Laravel, Expressjs, et React. Ouvert à collaboration et freelance.
+- **Mentors :** Recherche un guide pour accélérer mon apprentissage en développement web.
+---
+## 🌱 Aspirations :
+- Points forts en Laravel et React.
+- Exploration prochaine : Vue.js et Nest.js.
+---
+## 🗨 Contact :
+Ravi de dialoguer que vous soyez un mentor, un recruteur ou un passionné de tech. [Contactez-moi](#) !
+---
+## ⚡ Plus sur moi :
+- Philosophie, jeux vidéo, randonnées.
+- Intérêt croissant pour l'intelligence artificielle.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentinhouville/) 
