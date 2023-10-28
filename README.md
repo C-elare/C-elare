@@ -7,7 +7,8 @@ Web Developer in a Bachelor's program at HETIC, passionate about tech, gaming, a
 - **Recruiters:** Skilled in Laravel, Expressjs, and React. Open for collaboration, freelance, and open-source projects.
 - **Mentors:** Seeking guidance to accelerate my web development learning journey.
 ## 🗨 Contact:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentinhouville/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentinhouville/)
+ 
 Happy to connect whether you're a mentor, a recruiter, or just a tech enthusiast.
 ---
 # 💻 Tech Stack:
