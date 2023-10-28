@@ -1,5 +1,6 @@
 # 💫 Salut, je suis C-elare 🌍
 Développeur Web en Bachelor chez HETIC, passionné par la tech, le jeu vidéo et la philosophie. Toujours à la recherche de perfection et d'innovation.
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-elare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🛠 Actuellement :
