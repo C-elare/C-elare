@@ -2,7 +2,8 @@
 Web Developer in a Bachelor's program at HETIC, passionate about tech, gaming, and philosophy. Always striving for perfection and innovation.
 ---
 ## 🛠 Currently:
-- **Ongoing Project:** An interactive code learning app, powered by OpenAI's API, Laravel & React.
+- **Personal Project**: An interactive code learning app, powered by OpenAI's API, Laravel & React.
+- **Client Work**: Also actively engaged in building three other websites for clients.
 ## 👩‍💻 Opportunities:
 - **Recruiters:** Skilled in Laravel, Expressjs, and React. Open for collaboration, freelance, and open-source projects.
 - **Mentors:** Seeking guidance to accelerate my web development learning journey.
