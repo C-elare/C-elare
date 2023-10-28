@@ -11,6 +11,7 @@ Web Developer in a Bachelor's program at HETIC, passionate about tech, gaming, a
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentinhouville/)
  
 Happy to connect whether you're a mentor, a recruiter, or just a tech enthusiast.
+
 ---
 # 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-elare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
