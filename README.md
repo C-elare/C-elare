@@ -1,6 +1,8 @@
 # 💫 Salut, je suis C-elare 🌍
 Développeur Web en Bachelor chez HETIC, passionné par la tech, le jeu vidéo et la philosophie. Toujours à la recherche de perfection et d'innovation.
+
 [![](https://visitcount.itsvg.in/api?id=C-elare&icon=2&color=6)](https://visitcount.itsvg.in)
+
 ## 🛠 Actuellement :
 - **Projet en cours :** Une app d'apprentissage du code, propulsée par l'API d'OpenAI, Laravel & React.
 - **Tech stack :** JavaScript, PHP, Laravel, React, TypeScript.
