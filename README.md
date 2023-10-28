@@ -14,12 +14,12 @@ Développeur Web en Bachelor chez HETIC, passionné par la tech, le jeu vidéo e
 - Exploration prochaine : Vue.js et Nest.js.
 ---
 ## 🗨 Contact :
-Ravi de dialoguer que vous soyez un mentor, un recruteur ou un passionné de tech. [Contactez-moi](#) !
+Ravi de dialoguer que vous soyez un mentor, un recruteur ou un passionné de tech.
 ---
 ## ⚡ Plus sur moi :
 - Philosophie, jeux vidéo, randonnées.
 - Intérêt croissant pour l'intelligence artificielle.
-
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentinhouville/) 
 
