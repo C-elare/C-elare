@@ -1,7 +1,6 @@
 # 💫 Salut, je suis C-elare 🌍
 Développeur Web en Bachelor chez HETIC, passionné par la tech, le jeu vidéo et la philosophie. Toujours à la recherche de perfection et d'innovation.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
----
 ## 🛠 Actuellement :
 - **Projet en cours :** Une app d'apprentissage du code, propulsée par l'API d'OpenAI, Laravel & React.
 - **Tech stack :** JavaScript, PHP, Laravel, React, TypeScript.
