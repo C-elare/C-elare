@@ -1,7 +1,6 @@
 # 💫 Salut, je suis C-elare 🌍
 Développeur Web en Bachelor chez HETIC, passionné par la tech, le jeu vidéo et la philosophie. Toujours à la recherche de perfection et d'innovation.
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![](https://visitcount.itsvg.in/api?id=C-elare&icon=2&color=6)](https://visitcount.itsvg.in)
 ## 🛠 Actuellement :
 - **Projet en cours :** Une app d'apprentissage du code, propulsée par l'API d'OpenAI, Laravel & React.
 - **Tech stack :** JavaScript, PHP, Laravel, React, TypeScript.
@@ -18,6 +17,8 @@ Développeur Web en Bachelor chez HETIC, passionné par la tech, le jeu vidéo e
 - Philosophie, jeux vidéo, randonnées.
 - Intérêt croissant pour l'intelligence artificielle.
 ---
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ## 🗨 Contact :
 Ravi de dialoguer que vous soyez un mentor, un recruteur ou un passionné de tech.
 
@@ -28,11 +29,6 @@ Ravi de dialoguer que vous soyez un mentor, un recruteur ou un passionné de tec
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=C-elare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=C-elare&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-elare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=C-elare&icon=2&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
