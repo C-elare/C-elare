@@ -1,5 +1,5 @@
 # 💫 Hello, I'm C-elare 🌍
-A french Web Developer in a Bachelor's program at HETIC, passionate about tech, gaming, and philosophy. Always striving for perfection and innovation.
+A french Web Developer in a Bachelor's program at HETIC, passionate about tech, artificial intelligence, gaming, and philosophy. Always striving for perfection and innovation.
 ---
 ## 🛠 Currently:
 - **Personal Project**: An interactive code learning app, powered by OpenAI's API, Laravel & React.
@@ -22,8 +22,5 @@ Happy to connect whether you're a mentor, a recruiter, or just a tech enthusiast
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=C-elare&theme=tokyonight&hide_border=false)<br/>
 
-## ⚡ More About Me:
-- Philosophy, video games, hiking.
-- Growing interest in artificial intelligence.
 ---
 
