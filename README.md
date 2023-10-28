@@ -1,16 +1,15 @@
 # 💫 Salut, je suis C-elare 🌍
-Développeur Web en Bachelor chez HETIC, passionné par la tech, le jeu vidéo et la philosophie. Toujours à la recherche de perfection et d'innovation.
+Web Developer in a Bachelor's program at HETIC, passionate about tech, gaming, and philosophy. Always striving for perfection and innovation.
+---
+## 🛠 Currently:
+- **Ongoing Project:** An interactive code learning app, powered by OpenAI's API, Laravel & React.
+## 👩‍💻 Opportunities:
+- **Recruiters:** Skilled in Laravel, Expressjs, and React. Open for collaboration, freelance, and open-source projects.
+- **Mentors:** Seeking guidance to accelerate my web development learning journey.
+## 🗨 Contact:
+Happy to connect whether you're a mentor, a recruiter, or just a tech enthusiast.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentinhouville/) 
 
-## 🛠 Actuellement :
-- **Projet en cours :** Une app d'apprentissage du code, propulsée par l'API d'OpenAI, Laravel & React.
----
-## 👩‍💻 Opportunités :
-- **Recruteurs :** Expertise en Laravel, Expressjs, et React. Ouvert à collaboration et freelance.
-- **Mentors :** Recherche un guide pour accélérer mon apprentissage en développement web.
----
-## 🌱 Aspirations :
-- Points forts en Laravel et React.
-- Exploration prochaine : Vue.js et Nest.js.
 ---
 # 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-elare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -21,11 +20,8 @@ Développeur Web en Bachelor chez HETIC, passionné par la tech, le jeu vidéo e
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=C-elare&theme=tokyonight&hide_border=false)<br/>
 
-## ⚡ Plus sur moi :
-- Philosophie, jeux vidéo, randonnées.
-- Intérêt croissant pour l'intelligence artificielle.
+## ⚡ More About Me:
+- Philosophy, video games, hiking.
+- Growing interest in artificial intelligence.
 ---
-## 🗨 Contact :
-Ravi de dialoguer que vous soyez un mentor, un recruteur ou un passionné de tech.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valentinhouville/) 
