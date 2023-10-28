@@ -1,5 +1,5 @@
-# 💫 Salut, je suis C-elare 🌍
-Web Developer in a Bachelor's program at HETIC, passionate about tech, gaming, and philosophy. Always striving for perfection and innovation.
+# 💫 Hello, I'm C-elare 🌍
+A french Web Developer in a Bachelor's program at HETIC, passionate about tech, gaming, and philosophy. Always striving for perfection and innovation.
 ---
 ## 🛠 Currently:
 - **Personal Project**: An interactive code learning app, powered by OpenAI's API, Laravel & React.
