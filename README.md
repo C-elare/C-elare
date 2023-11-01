@@ -90,10 +90,3 @@ A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, pass
 ## 🔄 Version Control
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=C-elare&theme=tokyonight&hide_border=false)<br/>
-
----
-
