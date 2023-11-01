@@ -21,8 +21,6 @@ A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, pass
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
----
 ## 👨‍💻 Full Stack Development
 #### TALL Stack 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-%23222.svg?style=for-the-badge&logo=alpine-dot-js&logoColor=8BC0D0)
