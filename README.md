@@ -45,49 +45,18 @@ A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, pass
   ![PhpStorm](https://img.shields.io/badge/PhpStorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
  
 ---
-### 🛠 Frameworks & Libraries
-- Redux
-- Bootstrap
-- React Native
-- MUI
-
-### 🎨 Web Design & CMS
-- Figma
-- Canva
-- Framer
-- Adobe XD
-- Webflow
-- WordPress
-
+## 🌐 Frontend Development
+- 🛠 **Frameworks & Libraries**: Redux, Bootstrap, React Native, MUI
+- 🎨 **Web Design & CMS**: Figma, Canva, Framer, Adobe XD, Webflow, WordPress
 ---
-
-### ⚙️ Backend Development
-#### 🗄 Databases & Web Servers
-- PostgreSQL
-- MongoDB
-- MySQL
-- MariaDB
-- Redis
-- Apache
-- Nginx
-#### 🗂️ Database Management
-- TablePlus
-#### 📦 API Testing
-- Insomnia
-- Postman
-#### 🚀 Hosting, Deployment & Backend Services
-- Netlify
-- Heroku
-- Firebase
-#### 🐳 Containerization & Orchestration
-- Docker
-- Kubernetes
+##  ⚙️Backend Development
+- 🗄**Databases & Web Servers**: PostgreSQL, MongoDB, MySQL, MariaDB, Redis, Apache, Nginx
+- 🗂️**Database Management**: TablePlus
+- 📦**API Testing**: Insomnia, Postman
+- 🚀**Hosting & Deployment**: Netlify, Heroku, Firebase
+- 🐳**Containerization & Orchestration**: Docker, Kubernetes
 ---
-### 🛠 Common Tools & Platforms
-#### 📋 Project & Team Management
-- Jira
-- Notion
-- Trello
-#### 🔄 Version Control
-- Git
-- GitHub
+## 🛠Common Tools & Platforms
+- 📋**Project & Team Management**: Jira, Notion, Trello
+- 🔄**Version Control**: Git, GitHub
+
