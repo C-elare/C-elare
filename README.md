@@ -25,7 +25,7 @@ A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, pass
 ---
 ## 👨‍💻 Full Stack Development
 ### TALL Stack 
-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-%23222.svg?style=for-the-badge&logo=alpine-dot-js&logoColor=8BC0D0)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-%23222.svg?style=for-the-badge&logo=alpine-dot-js&logoColor=8BC0D0)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-%234E5A6A.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ### MERN Stack
