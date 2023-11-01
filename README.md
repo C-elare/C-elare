@@ -38,7 +38,7 @@ A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, pass
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-%23594AE2.svg?style=for-the-badge&logo=inertia&logoColor=white)
  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-### 📝 IDEs
+#### 📝 IDEs
  ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![WebStorm](https://img.shields.io/badge/WebStorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
   ![PhpStorm](https://img.shields.io/badge/PhpStorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
