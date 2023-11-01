@@ -47,7 +47,7 @@ A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, pass
 ## 🌐 Frontend Development
 - 🛠 **Frameworks & Libraries**: Redux, Bootstrap, React Native, MUI
 - 🎨 **Web Design & CMS**: Figma, Canva, Framer, Adobe XD, Webflow, WordPress
----
+
 ##  ⚙️Backend Development
 - 🗄**Databases & Web Servers**: PostgreSQL, MongoDB, MySQL, MariaDB, Redis, Apache, Nginx
 - 🗂️**Database Management**: TablePlus
