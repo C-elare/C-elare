@@ -48,7 +48,6 @@ A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, pass
 
 ##  ⚙️Backend Development
 - 🗄**Databases & Web Servers**: PostgreSQL, MongoDB, MySQL, MariaDB, Redis, Apache, Nginx
-- 🗂️**Database Management**: TablePlus
 - 📦**API Testing**: Insomnia, Postman
 - 🚀**Hosting & Deployment**: Netlify, Heroku, Firebase
 - 🐳**Containerization & Orchestration**: Docker, Kubernetes
