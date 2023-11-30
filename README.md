@@ -42,9 +42,7 @@ a fullstack web developer with a specialization in backend, currently enrolled i
  ![WebStorm](https://img.shields.io/badge/WebStorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
  ![PhpStorm](https://img.shields.io/badge/PhpStorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
  
----
 ## 🌐 Frontend Development
-- 🛠 **Frameworks & Libraries**: Redux, Bootstrap, React Native, MUI
 - 🎨 **Web Design & CMS**: Figma, Canva, Framer, Adobe XD, Webflow, WordPress
 
 ##  ⚙️Backend Development
