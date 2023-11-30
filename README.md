@@ -1,5 +1,5 @@
 # 💫 Hello, I'm C-elare 🌍
-A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, passionate about tech, artificial intelligence, gaming, and philosophy. Always striving for perfection and innovation.
+a fullstack web developer with a specialization in backend, currently enrolled in a Bachelor's program at HETIC Paris. My passions include technology, artificial intelligence, gaming, and philosophy. I always strive for perfection and innovation in my work.
 
 ---
 ## 🛠 Currently:
@@ -23,7 +23,7 @@ A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, pass
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ## 👨‍💻 Full Stack Development
 ### Javascript/ Typescript
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue-dot-js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
