@@ -1,7 +1,6 @@
 # 💫 Hello, I'm C-elare 🌍
 a fullstack web developer with a specialization in backend, currently enrolled in a Bachelor's program at HETIC Paris. My passions include technology, artificial intelligence, gaming, and philosophy. I always strive for perfection and innovation in my work.
 
----
 ## 🛠 Currently:
 - **Personal Project**: An interactive code learning app, powered by OpenAI's API, Adonis.js & React.
 - **Client Work**: Also actively engaged in building three other websites for clients.
@@ -10,10 +9,11 @@ a fullstack web developer with a specialization in backend, currently enrolled i
 - **Mentors:** Seeking guidance to accelerate my web development learning journey.
 ## 🗨 Contact:
 - Happy to connect whether you're a mentor, a recruiter, or just a tech enthusiast.
-
+- 
 ---
 # Language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-elare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
