@@ -31,9 +31,9 @@ A french fullstack Web Developer, with a  in a Bachelor's program at HETIC, pass
 
 ---
 ### PHP
-![Livewire](https://img.shields.io/badge/Livewire-%234E5A6A.svg?style=for-the-badge&logo=livewire&logoColor=white)
-
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Livewire](https://img.shields.io/badge/Livewire-%234E5A6A.svg?style=for-the-badge&logo=livewire&logoColor=white)
 
 ---
 ### CSS
